@@ -1,0 +1,21 @@
+{
+  "name": "ESP Github OTA",
+  "version": "0.1.0",
+  "description": "A multi wifi manager for arduino based ESP applications, with extensive RESTful API, and configuration stored on non volatile memory.",
+  "keywords": "esp32, wifi, arduino",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcuw/EspGhOta"
+  },
+  "authors": [
+    {
+      "name": "mcuw",
+      "email": "112967559+mcuw@users.noreply.github.com",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
